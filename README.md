@@ -12,23 +12,24 @@ This project focuses on predicting breast cancer using a neural network model. T
 ## Technologies used
 ###Programming Language: Python
 
-###Libraries:
+### Libraries:
 TensorFlow/Keras: Neural network implementation
 Pandas & NumPy: Data manipulation and preprocessing
 Scikit-learn: Data splitting and evaluation metrics
 Matplotlib: Data visualization
 
-##Project Workflow
-###Data Preprocessing:
+## Project Workflow
+
+### Data Preprocessing:
 Normalized and scaled features for consistent input to the neural network.
 
-###Model Development:
+### Model Development:
 1) Built a feedforward neural network with multiple layers.
 2) Used ReLU activation for hidden layers and sigmoid activation for the output layer.
 3) Optimized hyperparameters like validation and epochs.
 
-###Model Evaluation:
+### Model Evaluation:
 Evaluated the model using accuracy score
 
-###Prediction:
+### Prediction:
 Used the trained model for predicting breast cancer diagnosis based on input data.
