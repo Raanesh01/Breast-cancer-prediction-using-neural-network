@@ -10,7 +10,8 @@ This project focuses on predicting breast cancer using a neural network model. T
 4) Robust evaluation metrics to ensure model reliability.
 
 ## Technologies used
-###Programming Language: Python
+
+### Programming Language: Python
 
 ### Libraries:
 TensorFlow/Keras: Neural network implementation
